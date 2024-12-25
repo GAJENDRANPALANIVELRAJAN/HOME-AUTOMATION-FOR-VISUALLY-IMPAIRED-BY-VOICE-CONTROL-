@@ -1,0 +1,21 @@
+ABSTRACT:
+        The project presents a comprehensive solution for enhancing the daily living 
+experience of visually impaired individuals through the implementation of a
+voicecontrolled home automation system. Leveraging advancements in voice recognition
+technology, the system enables users to effortlessly control and monitor various 
+smart home devices using natural language commands. The integration of intelligent
+sensors, coupled with a user-friendly interface, empowers visually impaired individuals
+to independently manage their living environment. The proposed system not only promotes
+accessibility but also contributes to a safer and more comfortable home environment for 
+those with visual impairments, fostering increased autonomy and improved quality of life. 
+
+OBJECTIVE:
+The aim of our project is to enhance the individuals by developing a home automation system, 
+driven by voice control technology. This system seeks to provide seamless an control over
+various household devices, fostering independence, accessibility, is improved an living 
+experiences for the visually impaired.  The aim of the project include: 
+	Develop a user-friendly home automation system tailored for individuals with visual impairments. 
+	Implement reliable voice control functionality to enable hands-free management of smart devices. 
+	Ensure seamless integration with a variety of household appliances and systems. 
+	Prioritize accessibility features to enhance the overall user experience for the visually impaired. 
+	Conduct usability testing and gather feedback to refine and optimize the system for practical use. 
